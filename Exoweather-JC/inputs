@@ -5,7 +5,6 @@ convective
 radiation zone
 radiative zone
 tachocline
-dwarf
 overshoot
 undershoot
 semiconvection
@@ -13,6 +12,7 @@ ODDC
 thermohaline
 flow shear
 magnetohydrodynamics
+dynamo
 MHD   MATCHING: unique
 transport
 mixing
