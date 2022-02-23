@@ -1,5 +1,6 @@
 #journal-club require=2
 turbulence
+cascade
 convection
 convective
 radiation zone
@@ -12,6 +13,8 @@ ODDC
 thermohaline
 flow shear
 magnetohydrodynamics
+magnetorotational
+MRI   MATCHING: unique
 dynamo
 MHD   MATCHING: unique
 transport
