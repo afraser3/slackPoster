@@ -1,5 +1,6 @@
 #journal-club require=2
 turbulence
+turbulent
 cascade
 convection
 convective
@@ -18,6 +19,7 @@ gamma instability
 flow shear
 magnetohydrodynamics
 magnetorotational
+magnetic field
 MRI   MATCHING: unique
 dynamo
 MHD   MATCHING: unique
@@ -31,3 +33,18 @@ Lundquist number
 Rayleigh number
 Nusselt number
 Chandrasekhar number
+Kelvin-Helmholtz
+Kelvin Helmholtz
+Rayleigh-Benard
+Rayleigh Benard
+Free shear
+nonnormal
+non-normal
+nonmodal growth
+non-modal growth
+pseudospectra
+Dimits shift
+Moosinesq
+Prantler number
+Quasilinear
+Direct statistical simulations
