@@ -1,0 +1,43 @@
+#journalclub require=2
+turbulence
+turbulent
+cascade
+convection
+convective
+flow shear
+magnetohydrodynamics
+magnetorotational
+magnetic field
+MRI   MATCHING: unique
+dynamo
+MHD   MATCHING: unique
+transport
+mixing
+Reynolds number
+Prandtl number
+Lundquist number
+Rayleigh number
+Nusselt number
+Kelvin-Helmholtz
+Kelvin Helmholtz
+Rayleigh-Benard
+Rayleigh Benard
+Free shear
+nonnormal
+non-normal
+nonmodal growth
+non-modal growth
+pseudospectra
+Dimits shift
+Quasilinear
+Direct statistical simulations
+drift wave
+drift-wave
+ITG   MATCHING: unique
+ETG   MATCHING: unique
+MTM   MATCHING: unique
+KBM   MATCHING: unique
+gyrokinetic
+gyrofluid
+tearing
+plasmoid
