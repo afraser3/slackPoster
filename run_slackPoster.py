@@ -6,8 +6,9 @@ import os
 
 
 main_dict = {
-             'Exoweather-JC': 'astro,math,physics',
-             'Cascave-JC': 'astro,math,physics'
+             'Exoweather-JC': 'astro,math,physics,nlin',
+             'Cascave-JC': 'astro,math,physics',
+             'CU_Convection_Crew': 'astro,math,physics,nlin'
 }
 
 # read from gitignored-email file to get addresses
